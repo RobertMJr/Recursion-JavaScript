@@ -1,4 +1,4 @@
-## Recursion in Javascript [![](https://img.shields.io/badge/Robert-Muraru-blue)](https://robert-muraru-portfolio.herokuapp.com/)
+## Recursion in JavaScript [![](https://img.shields.io/badge/Robert-Muraru-blue)](https://robert-muraru-portfolio.herokuapp.com/)
 
 
 ### Description
